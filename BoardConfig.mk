@@ -151,3 +151,8 @@ TW_USE_MODEL_HARDWARE_ID_FOR_DEVICE_ID := true
 TWRP_INCLUDE_LOGCAT := true
 BUILD_BROKEN_DUP_RULES := true
 
+############################
+######## PBRP FLAGS ########
+############################
+
+PB_TORCH_PATH := /sys/class/leds/flashlight
